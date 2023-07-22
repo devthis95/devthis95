@@ -1,0 +1,31 @@
+nome = input('github')
+if nome:
+    print(f'
+     {desenvolvedor}
+        nome:'Thiago da Silva Soares',
+        cidade: "Rio de Janeiro",
+    hobbies: ["Cinema", "Games", "Hardware"],
+    profissao: "Desenvolvedor Web Back-End",
+    email: "dev.thiagos95@gmail.com",
+    linkedin: "www.linkedin.com/in/soaresthiago021",
+    contato: "(21) 99958-5653",
+        descricao:
+    meuPerfil:'transição de carreira, após 10 anos atuando no ramo de telecomunicações',
+                'estou em busca de uma carreira de programador, me qualificando  para atuar de forma profissional'.
+        objetivos:
+    profissionais: 
+      "Conquistar minha primeira vaga como desenvolvedor",
+            "seguir carreira e me desenvolver na area de programação"
+  
+        pessoais:f"Tornar-se um{especialista} em {desenvolvimento web, mobile} "
+  
+         habilidadesBackEnd:[html, css, python, django], 
+ 
+  
+ 
+     experienciaAnterior:{
+    empresa: 'Horizzon Technology'
+    cargo: 'Analista suporte TI HelpDesk'
+    responsabilidades: 'Suporte N1 aos Usuarios/Clientes da empresa',
+  },
+    ),
